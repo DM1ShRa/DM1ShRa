@@ -1,9 +1,8 @@
-# Hi there 
-###### ![HelloTherePrivateFromPenguinsOfMadagascarGIF](https://user-images.githubusercontent.com/107783346/174465959-b62e5cea-e738-4e8a-9ce2-23f919630ab5.gif)
+# Hi there 👋
 
 ## Familiar With C++,C,Git,Python for Data Science
-![image](https://user-images.githubusercontent.com/107783346/174466123-d2890998-c5d5-4781-9082-9d33ec7993e6.png)
-![image](https://user-images.githubusercontent.com/107783346/174466134-107ae760-3126-40ac-8b5c-8142c2b6ed9e.png)
+###### ![image](https://user-images.githubusercontent.com/107783346/174466123-d2890998-c5d5-4781-9082-9d33ec7993e6.png)
+###### ![image](https://user-images.githubusercontent.com/107783346/174466134-107ae760-3126-40ac-8b5c-8142c2b6ed9e.png)
 
 
 ### 🌱 I’m currently learning C#,SQL,PLSQL,CSS

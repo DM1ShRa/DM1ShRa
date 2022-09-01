@@ -1,6 +1,12 @@
 # Hi! there 👋
 
-## Familiar With C++,C,Git,Python for Data Science,SQL,PLSQL,CSS,HTML
+## Familiar With: 
+### •	C++
+### •	C
+### •	Git
+### •	Python for Data Science
+### •	SQL/PLSQL
+### •	CSS & HTML
 
 ## 🌱 I’m currently learning C#,ASP.NET
 

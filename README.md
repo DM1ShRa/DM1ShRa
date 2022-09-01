@@ -16,5 +16,5 @@
 ## - 📫 How to reach me: ...
 #### Email:darash.mishra@gmail.com
 #### Instagram : https://www.instagram.com/darash.mishra/
-#### Linkdin : https://www.linkedin.com/in/darash-mishra-50163119b/
+#### Linkedin : https://www.linkedin.com/in/darash-mishra-50163119b/
 

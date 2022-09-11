@@ -12,7 +12,7 @@
 
 ![Wb](https://user-images.githubusercontent.com/107783346/174466173-34b523d6-52f5-4486-9875-a5fa3575bf95.gif)
 
-
+![Darash's github stats](https://github-readme-stats.vercel.app/api?username=DM1ShRa)
 ## - 📫 How to reach me: ...
 #### Email:darash.mishra@gmail.com
 #### Instagram : https://www.instagram.com/darash.mishra/

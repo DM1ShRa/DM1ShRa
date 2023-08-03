@@ -1,5 +1,5 @@
 # Hi! there 👋
-### 🌱I’m currently learning  React.
+### 🌱I’m currently learning  Next.js.
 ![Wb](https://user-images.githubusercontent.com/107783346/174466173-34b523d6-52f5-4486-9875-a5fa3575bf95.gif)
 ## Skills:
 
